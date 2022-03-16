@@ -1,0 +1,5 @@
+include ':genetous_imageload'
+include ':genetous_mqtt'
+include ':genetous_http'
+include ':app'
+rootProject.name = "GenetousSDK"
