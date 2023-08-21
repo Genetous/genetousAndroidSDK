@@ -35,7 +35,7 @@ allprojects {
 
 ```java
 dependencies {
-    implementation 'com.github.Genetous.genetousAndroidSDK:genetous_http:v1.0.0'
+    implementation 'com.github.Genetous:genetousAndroidSDK:1.0.1'
 }
 ```
 
